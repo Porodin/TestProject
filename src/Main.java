@@ -8,6 +8,7 @@ public class Main {
                 number = number / i;
             }
         }
+
         System.out.println("Самый большой делитель числа 600851475143 является число " + (i-1));
     }
 }
